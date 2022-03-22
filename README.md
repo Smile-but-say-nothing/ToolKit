@@ -6,5 +6,5 @@
 ### 界面
 ![Image text](Fig/ToolKit V0.1.png) 
 ### 教程
-![Image text](Fig/ToolKit V0.1-教程.png) 
+![Image text](https://github.com/Smile-but-say-nothing/ToolKit/blob/master/Fig/ToolKit%20V0.1-%E6%95%99%E7%A8%8B.png) 
  
